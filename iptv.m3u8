@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/JasonKow/my_iptv/main/m3u8/8TV.m3u8
 https://raw.githubusercontent.com/JasonKow/my_iptv/main/m3u8/TV9.m3u8
 #EXTINF:-1 tvg-id="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png" group-title="Malaysia",Drama Sangat
 https://raw.githubusercontent.com/JasonKow/my_iptv/main/m3u8/Drama_Sangat.m3u8
-#EXTINF:-1 tvg-ID="BHTV.MY" tvg-logo="https://assets.bharian.com.my/assets/logo_35.png" group-title="Malaysia",Berita Harian
+#EXTINF:-1 tvg-ID="BHTV.MY" tvg-logo="https://www.bharian.com.my/assets/logo.png" group-title="Malaysia",Berita Harian
 https://raw.githubusercontent.com/JasonKow/my_iptv/main/m3u8/BHTV.m3u8
 
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
