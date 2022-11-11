@@ -83,7 +83,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667059510/ei/1
 #EXTINF:-1 tvg-id="CT1.CN" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
 http://111.13.42.238/PLTV/88888888/224/3221226564/1.m3u8
 #EXTINF:-1 tvg-id="CT2.CN" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2 财经
-http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221225923/index.m3u8
 #EXTINF:-1 tvg-id="CT3.CN" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国",CCTV-3 文艺
 http://39.135.32.236:6610/PLTV/77777777/224/3221225713/index.m3u8?
 #EXTINF:-1 tvg-id="CT4.CN" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国",CCTV-4 中文国际
